@@ -1,9 +1,9 @@
 +++
 author = "Jourdan"
-tags = ["About Me", "Jourdan", "Space Futures Consulting", "Space Expertise"]
+tags = ["About Me", "Jourdan", "Space Futures Consulting", "Space Expertise", "Maine Space Conference"]
 comments = false
 date = "2023-10-30"
-draft = false
+draft = true
 image = ""
 menu = ""
 share = false
@@ -14,6 +14,10 @@ title = "About Jourdan"
 #### Hello there!
 
 I'm Jourdan, an expert and enthusiast deeply immersed in the world of space futures. With the rapid evolution of technology, increase in private investments, and the unwavering human spirit to explore beyond our planet, the space industry is witnessing groundbreaking advancements. And I'm thrilled to be a part of this journey.
+
+#### Maine Space Conference
+
+Exciting news! We will be attending the upcoming Maine Space Conference. It's an excellent platform that brings together space enthusiasts, professionals, and visionaries to discuss the future and innovations in the industry. Not only will we be in attendance, but [Space Futures Consulting](http://spacefuturesconsulting.com) is also proud to announce that we are sponsoring a table at the event. If you're planning to be there, do swing by and connect with us.
 
 #### My Passion for Space
 
